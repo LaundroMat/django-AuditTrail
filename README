@@ -1,3 +1,7 @@
 django-AuditTrail
+=================
 
-This is the code published at http://code.djangoproject.com/wiki/AuditTrail.
+Original code is by published at http://code.djangoproject.com/wiki/AuditTrail.
+
+I've had troubles loading fixtures in my test clients when using this, and wanted to share a simple patch I made to the code.
+
